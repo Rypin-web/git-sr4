@@ -1,0 +1,27 @@
+.button {
+  color: #594f7a;
+  font-size: 24px;
+  font-weight: bold;
+
+  background: rgb(255, 255, 255);
+  box-shadow: inset 0 -1px 1rem rgba(0, 0, 0, 0.1);
+
+  width: 100%;
+  padding: 10px 0;
+
+  border: none;
+  border-radius: 7px;
+
+  cursor: pointer;
+  transition: all linear 0.15s;
+
+  &:hover {
+    transform: scale(1.05);
+
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+  }
+  &:active {
+    transform: scale(0.95);
+    transition: all linear 0.08s;
+  }
+}

@@ -1,0 +1,27 @@
+.textArea {
+  font-size: 20px;
+  color: #473f62;
+  font-weight: bold;
+
+  background: none;
+
+  padding: 0 10px 0 0;
+  margin: 0 0 20px 0;
+
+  resize: none;
+  min-height: 93%;
+
+  border: none;
+  outline: none !important;
+
+  &::-webkit-scrollbar {
+    z-index: 10000;
+    cursor: pointer;
+    width: 7px;
+    background: none;
+  }
+  &::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: rgba(162, 164, 253, 0.7);
+  }
+}

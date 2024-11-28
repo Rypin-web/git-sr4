@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Example",
+    "simpleDescription": "This is just an example",
+    "dateCreate": "17.07.24",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, optio.\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto consectetur consequuntur deserunt dolor est eum in iure, libero molestiae nesciunt nobis non sapiente sint sit, voluptates? Aut maiores quidem repudiandae.\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto, commodi dolor esse facilis magnam provident quam quos suscipit voluptatum. Dignissimos fugiat incidunt itaque nam officiis perferendis quod suscipit vel voluptates."
+  },
+  {
+    "id": 2,
+    "title": "Title",
+    "simpleDescription": "Simple description",
+    "dateCreate": "17.07.24",
+    "content": "Main text"
+  }
+]

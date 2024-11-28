@@ -1,0 +1,10 @@
+.headerH1{
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    
+    color: #433d5b;
+
+    margin-left: 5px;
+}
